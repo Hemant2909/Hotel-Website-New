@@ -1,0 +1,170 @@
+@media only screen and (max-width:429px) {
+  #hr{
+    display: none;
+  }
+  .title{ width: 100%;
+ height: 3rem;
+ position: relative;
+ 
+ top: 0;
+ 
+ }
+  
+  body{
+   overflow-x: hidden;
+  }
+ 
+  .search-field{
+    background: #FFFAF1;
+    
+  }
+  
+  .searchdiv{
+    height: 3rem
+  }
+  
+  .appartment , .Hotel{
+    width: 30
+  }
+  .hamburger img:nth-child(1),img:nth-child(2){
+    width: 40px;
+    height: 40px;
+  }
+  .hamburger img:nth-child(2){
+    width: 25px;
+    opacity : 0.8;
+    height: 25px;
+  }
+  .hamburger{
+    width: 2rem;
+  }
+  
+    .title h2{
+
+  font-size: 1.5rem;}
+  
+  .appartment , .Hotel,.searchdiv{
+    display: none;
+  }
+ .typewriter{
+  width: 100%;
+  height: 17rem 
+   
+ }
+ .typewriter p{
+   width: 60%;
+   font-size: 10px;
+   line-height: 2rem;
+  
+  
+  
+ }
+
+
+  .content{
+    max-height: 25rem;
+  
+  }
+  .contentdata{
+    height:12rem;
+    width: 70%;
+  }
+  .contentinside{
+    transform: translate( 10%,60%);
+  }
+
+  .contentdata h3{
+
+  font-size: 30%;
+  opacity: .7;
+  line-height: 1rem;
+}
+.contentdata p{
+  font-size: 30%;
+  opacity: .5;
+  line-height: 1rem;
+}
+
+.contentdata button{
+  background: #171a18;
+  width: 7rem;
+  font-size: 40%;
+  color: white;
+  height: 2.5rem;
+ 
+  border: none;
+  margin-top: 1rem;
+}
+.outletSlidesCarrierTwo {
+  height: 25rem;
+  width: calc(100%/5);
+  background:   #f4eee0;
+  display: flex;
+}
+  
+  .outletSlides{
+  width: 77%;}
+  
+  .Outlets button{
+ left: 6%;
+ top: 28%;
+ width: 2rem;
+ height: 2rem;
+}
+.Outlets .previous {
+  left: 94%;
+}
+  
+  .contentone{
+    height: 15rem;
+  }
+ .outletSlides h5{
+  font-size: 1rem;
+  opacity: 0.7;
+}
+.outletSlides p{
+  font-size: 3px;
+padding-top: 10px;
+line-height: 1rem;
+  
+}
+.Outlets button p{
+  bottom: 12%;
+  font-size: 1.2rem;
+}
+.slidermenuslide{
+ top: 3rem;
+ 
+}
+.slidermenuslide ul{
+  font-size: 1rem;
+}
+ .footerdivone h1{
+  
+   font-size: 1.2rem;
+ }
+  .footerdivone img{
+
+  width: 15%;}
+  
+  .footerdivone img:nth-child(2){
+  
+  height: 1rem;
+  
+  
+  
+  
+  }
+  .footer{ 
+  height: 57vh;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+}}
