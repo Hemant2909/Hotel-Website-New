@@ -158,7 +158,9 @@ line-height: 1rem;
   .footer{ 
   height: 57vh;
   
-  
+  .f-contentone,.f-contenttwo{
+    font-size: 6px
+    }
   
   
   
